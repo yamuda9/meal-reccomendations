@@ -21,7 +21,7 @@
 /**
  * App ID for the skill
  */
-var APP_ID = undefined;
+var APP_ID = "amzn1.echo-sdk-ams.app.ccc656e2-dc35-4ff8-8b29-f8518a10025c";
 
 /**
  * Array containing random meals.
