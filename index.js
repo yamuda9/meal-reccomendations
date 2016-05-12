@@ -27,7 +27,41 @@ var APP_ID = undefined;
  * Array containing random meals.
  */
 var RANDOM_MEALS = [
-    
+    "Stir fried vegetables and or with your choice of meat",
+    "Sushi",
+    "Pizza",
+    "Macaroni and cheese",
+    "Grilled or sauteed fish with a side of veggies",
+    "Breakfast for dinner",
+    "Chicken nuggets",
+    "Vegetables and or your meat of choice kabobs",
+    "Fajitas",
+    "Spaghetti and meatballs",
+    "Collard greens, potatoes, and whole-wheat buttermilk cheese biscuits",
+    "Veggie burgers with kale chips",
+    "BLT",
+    "Butternut squash ravioli with roasted asparagus",
+    "Chicken enchiladas",
+    "Jambalaya",
+    "Almond encrusted fish with beurre blanc sauce a side of asparagus and baked potatoes",
+    "Quesadillas",
+    "Tacos",
+    "Green curry shrimp",
+    "Pizza pockets",
+    "Chicken marsala pasta",
+    "Risotto with veggies and or seafood or meat of choice",
+    "Grilled chicken breast with chimichurri spelt pasta and a side of sliced summer tomato",
+    "Enchilada casserole",
+    "Fried rice",
+    "Roasted chicken with sweet potato casserole or chestnut and prosciutto bread stuffing and sautéed green beans with sliced almonds",
+    "Moroccan fish with mango and couscous",
+    "Prosciutto wrapped scallops over whole grain polenta on a bed of arugula",
+    "Coconut chicken satay served with peanut thai pasta",
+    "Gumbo",
+    "Grilled beef hamburgers with a side of slow cooker baked beans and corn on the cob",
+    "Grilled teriyaki pork tenderloin",
+    "Fettucini alfredo",
+    "Chicken and Cheese Tostadas"
 ];
 
 /**
